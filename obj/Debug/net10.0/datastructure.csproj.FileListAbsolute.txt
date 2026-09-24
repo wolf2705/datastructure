@@ -1,0 +1,14 @@
+/Users/joedejesus/repo/learn/codesignal/net/datastructures/datastructure/bin/Debug/net10.0/datastructure
+/Users/joedejesus/repo/learn/codesignal/net/datastructures/datastructure/bin/Debug/net10.0/datastructure.deps.json
+/Users/joedejesus/repo/learn/codesignal/net/datastructures/datastructure/bin/Debug/net10.0/datastructure.runtimeconfig.json
+/Users/joedejesus/repo/learn/codesignal/net/datastructures/datastructure/bin/Debug/net10.0/datastructure.dll
+/Users/joedejesus/repo/learn/codesignal/net/datastructures/datastructure/bin/Debug/net10.0/datastructure.pdb
+/Users/joedejesus/repo/learn/codesignal/net/datastructures/datastructure/obj/Debug/net10.0/datastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joedejesus/repo/learn/codesignal/net/datastructures/datastructure/obj/Debug/net10.0/datastructure.AssemblyInfoInputs.cache
+/Users/joedejesus/repo/learn/codesignal/net/datastructures/datastructure/obj/Debug/net10.0/datastructure.AssemblyInfo.cs
+/Users/joedejesus/repo/learn/codesignal/net/datastructures/datastructure/obj/Debug/net10.0/datastructure.csproj.CoreCompileInputs.cache
+/Users/joedejesus/repo/learn/codesignal/net/datastructures/datastructure/obj/Debug/net10.0/datastructure.dll
+/Users/joedejesus/repo/learn/codesignal/net/datastructures/datastructure/obj/Debug/net10.0/refint/datastructure.dll
+/Users/joedejesus/repo/learn/codesignal/net/datastructures/datastructure/obj/Debug/net10.0/datastructure.pdb
+/Users/joedejesus/repo/learn/codesignal/net/datastructures/datastructure/obj/Debug/net10.0/datastructure.genruntimeconfig.cache
+/Users/joedejesus/repo/learn/codesignal/net/datastructures/datastructure/obj/Debug/net10.0/ref/datastructure.dll
